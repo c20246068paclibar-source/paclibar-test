@@ -37,4 +37,10 @@ console.log(contactHeading);
 const projectHeading = document.querySelector("#projects h2");
 console.log(projectHeading);
 
+//Text Content
+heading.textContent = "My Portfolio";
+//jeading.TextContent = "My Portfolio";
+contactHeading.textContent = "Let's Connect!";
+projectHeading.textContent = "My Project";
+
 
