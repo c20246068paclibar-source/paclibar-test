@@ -6,6 +6,8 @@ let number = "09704945944";
 console.log("Age: " + age)
 console.log("Number: " + number);
 
+
+
 const address = "Brgy 6, Estrella, Victorias City";
 console.log("Address: " + address);
 
@@ -24,3 +26,15 @@ function mdas(num1, num2) {
     return (`Values: ${num1} and ${num2}. PRODUCT: ${m}, Quotient: ${d}, Sum: ${a}, Difference: ${s}`);
 }
 console.log(mdas(5, 3));
+
+
+const heading = document.querySelector("h1");
+console.log(heading);
+
+const contactHeading = document.querySelector("#contact h2");
+console.log(contactHeading);
+
+const projectHeading = document.querySelector("#projects h2");
+console.log(projectHeading);
+
+
