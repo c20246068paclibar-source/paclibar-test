@@ -38,9 +38,13 @@ const projectHeading = document.querySelector("#projects h2");
 console.log(projectHeading);
 
 //Text Content
-heading.textContent = "My Portfolio";
-//jeading.TextContent = "My Portfolio";
+heading.textContent = "My portfolio";
 contactHeading.textContent = "Let's Connect!";
-projectHeading.textContent = "My Project";
+projectHeading.textContent = "My Projects";
 
+heading.style.color = "purple";
+heading.style.backgroundColor = "yellow";
+contactHeading.style.color = "purple";
+projectHeading.style.color = "purple";
+servicesHeading.style.color = "purple";
 
