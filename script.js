@@ -62,12 +62,12 @@ toggleButton.addEventListener("click", function () {
     isOff = !isOff;
 
     if (isOff) {
-        body.style.backgroundColor = "black";
-        body.style.color = "white";
+        body.style.backgroundColor = "purple";
+        body.style.color = "pinkpurple";
 
     } else {
-        body.style.backgroundColor = "white";
-        body.style.color = "black";
+        body.style.backgroundColor = "pink";
+        body.style.color = "pinkpurple";s
     }
 });
 
