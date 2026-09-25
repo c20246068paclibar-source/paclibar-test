@@ -10,23 +10,24 @@ h2 {
 
 #projects {
     color: rgb(13, 99, 66);
-    background-color: rgb(38, 16, 147);
     background_color: aqua;
 }
 
-<<<<<<< HEAD
- #services {
-     color: rgb(70, 45, 7);
-     background-color: orange;
- }
-=======
-#services {
+<<<<<<< HEAD #services {
+    color: rgb(70, 45, 7);
+    background-color: orange;
+}
+
+=======#services {
     color: rgb(70, 45, 7);
 }
->>>>>>> cold-theme
 
-.contact {
+>>>>>>>cold-theme .contact {
     color: orange;
+}
+
+#contact {
+    background-color: green;
 }
 
 body {
